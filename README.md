@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👤 I’m Arthur César
 - 🌱 I’m currently learning English on Senac SP
-- 🌙 Are you having a good night?
+- 🌙 Are you having a good afternoon?
 
 ---
 
