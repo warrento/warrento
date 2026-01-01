@@ -5,7 +5,6 @@
 
 ### Programming Languages 🖥️
 <div>
- <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
  <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img title="DiscordJS" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-plain.svg">
  <img title="Lua" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
