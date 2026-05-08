@@ -6,8 +6,5 @@
 ### Programming Languages 🖥️
 [![Programming Languages](https://skillicons.dev/icons?i=js,discordjs,lua)](https://skillicons.dev)
 
-### API Testing and Documentation 🔍
-[![API Testing and Documentation](https://skillicons.dev/icons?i=postman,insomnia)](https://skillicons.dev)
-
 ### Backend Tools and Frameworks 🔙
 [![Backend Tools and Frameworks](https://skillicons.dev/icons?i=express)](https://skillicons.dev)<br><br>
