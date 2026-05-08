@@ -4,11 +4,7 @@
 ---
 
 ### Programming Languages 🖥️
-<div>
- <img title="JavaScript" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img title="DiscordJS" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-plain.svg">
- <img title="Lua" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
-</div>
+[![Programming Languages](https://skillicons.dev/icons?i=js,discordjs,lua)](https://skillicons.dev)
 
 ### API Testing and Documentation 🔍
 <div>
