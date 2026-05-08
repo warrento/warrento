@@ -7,10 +7,6 @@
 [![Programming Languages](https://skillicons.dev/icons?i=js,discordjs,lua)](https://skillicons.dev)
 
 ### API Testing and Documentation 🔍
-<div>
- <img title="Postman" alt="Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain.svg">
- <img title="Insomnia" alt="Insomnia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
-</div>
 [![API Testing and Documentation](https://skillicons.dev/icons?i=postman,insomnia)](https://skillicons.dev)
 
 ### Backend Tools and Frameworks 🔙
